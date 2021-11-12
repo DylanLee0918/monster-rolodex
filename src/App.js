@@ -12,15 +12,15 @@ class App extends React.Component {
       searchField: ''
     }
 
-    this.searchField = this.searchField.bind(this);
+    this.onSearchChange = this.onSearchChange.bind(this);
   }
 
   monsterData(users) {
     this.setState({ monsters: users })
   }
 
-  searchField(e) {
-    this.setState({ searchField: e.target.value })
+  onSearchChange(e) {
+    this.setState({ searchField: e.target.value,  })
   }
 
   componentDidMount() {
@@ -37,7 +37,7 @@ class App extends React.Component {
         <h1>Monsters Rolodex</h1>
         <SearchBox
           placeholder="search monsters" 
-          handleChange={this.searchField}
+          handleChange={this.onSearchChange}
         />
         <CardList monsters={filteredMonsters} />
       </div>
