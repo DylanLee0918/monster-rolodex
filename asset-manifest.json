@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//DylanLee0918.github.io/monster-rolodex/static/css/main.92e6b2b1.chunk.css",
-    "main.js": "/https//DylanLee0918.github.io/monster-rolodex/static/js/main.c48852fe.chunk.js",
-    "main.js.map": "/https//DylanLee0918.github.io/monster-rolodex/static/js/main.c48852fe.chunk.js.map",
-    "runtime-main.js": "/https//DylanLee0918.github.io/monster-rolodex/static/js/runtime-main.d9417f69.js",
-    "runtime-main.js.map": "/https//DylanLee0918.github.io/monster-rolodex/static/js/runtime-main.d9417f69.js.map",
-    "static/js/2.17d8c620.chunk.js": "/https//DylanLee0918.github.io/monster-rolodex/static/js/2.17d8c620.chunk.js",
-    "static/js/2.17d8c620.chunk.js.map": "/https//DylanLee0918.github.io/monster-rolodex/static/js/2.17d8c620.chunk.js.map",
-    "static/js/3.0d09bf21.chunk.js": "/https//DylanLee0918.github.io/monster-rolodex/static/js/3.0d09bf21.chunk.js",
-    "static/js/3.0d09bf21.chunk.js.map": "/https//DylanLee0918.github.io/monster-rolodex/static/js/3.0d09bf21.chunk.js.map",
-    "index.html": "/https//DylanLee0918.github.io/monster-rolodex/index.html",
-    "static/css/main.92e6b2b1.chunk.css.map": "/https//DylanLee0918.github.io/monster-rolodex/static/css/main.92e6b2b1.chunk.css.map",
-    "static/js/2.17d8c620.chunk.js.LICENSE.txt": "/https//DylanLee0918.github.io/monster-rolodex/static/js/2.17d8c620.chunk.js.LICENSE.txt"
+    "main.css": "/https//dylanlee0918.github.io/monster-rolodex/static/css/main.92e6b2b1.chunk.css",
+    "main.js": "/https//dylanlee0918.github.io/monster-rolodex/static/js/main.c48852fe.chunk.js",
+    "main.js.map": "/https//dylanlee0918.github.io/monster-rolodex/static/js/main.c48852fe.chunk.js.map",
+    "runtime-main.js": "/https//dylanlee0918.github.io/monster-rolodex/static/js/runtime-main.916810bd.js",
+    "runtime-main.js.map": "/https//dylanlee0918.github.io/monster-rolodex/static/js/runtime-main.916810bd.js.map",
+    "static/js/2.17d8c620.chunk.js": "/https//dylanlee0918.github.io/monster-rolodex/static/js/2.17d8c620.chunk.js",
+    "static/js/2.17d8c620.chunk.js.map": "/https//dylanlee0918.github.io/monster-rolodex/static/js/2.17d8c620.chunk.js.map",
+    "static/js/3.0d09bf21.chunk.js": "/https//dylanlee0918.github.io/monster-rolodex/static/js/3.0d09bf21.chunk.js",
+    "static/js/3.0d09bf21.chunk.js.map": "/https//dylanlee0918.github.io/monster-rolodex/static/js/3.0d09bf21.chunk.js.map",
+    "index.html": "/https//dylanlee0918.github.io/monster-rolodex/index.html",
+    "static/css/main.92e6b2b1.chunk.css.map": "/https//dylanlee0918.github.io/monster-rolodex/static/css/main.92e6b2b1.chunk.css.map",
+    "static/js/2.17d8c620.chunk.js.LICENSE.txt": "/https//dylanlee0918.github.io/monster-rolodex/static/js/2.17d8c620.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9417f69.js",
+    "static/js/runtime-main.916810bd.js",
     "static/js/2.17d8c620.chunk.js",
     "static/css/main.92e6b2b1.chunk.css",
     "static/js/main.c48852fe.chunk.js"
